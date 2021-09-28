@@ -1,0 +1,25 @@
+
+User Overview Report
+The toal number of registered users is: 3.
+The total number of tasks generated is 5.
+
+Report for admin:
+Total number of tasks assigned to admin is: 2.
+Percentage of total tasks assigned to admin is: 0.4%.
+Percentage of tasks assigned to admin that is complete is: 0.0%.
+Percentage of tasks assigned to admin that is not complete is: 1.0%.
+Percentage of tasks assigned to admin that is not complete and overdue is: 0.0%.
+
+Report for desi:
+Total number of tasks assigned to desi is: 2.
+Percentage of total tasks assigned to desi is: 0.4%.
+Percentage of tasks assigned to desi that is complete is: 0.0%.
+Percentage of tasks assigned to desi that is not complete is: 1.0%.
+Percentage of tasks assigned to desi that is not complete and overdue is: 0.5%.
+
+Report for bruce:
+Total number of tasks assigned to bruce is: 1.
+Percentage of total tasks assigned to bruce is: 0.2%.
+Percentage of tasks assigned to bruce that is complete is: 0.0%.
+Percentage of tasks assigned to bruce that is not complete is: 1.0%.
+Percentage of tasks assigned to bruce that is not complete and overdue is: 0.0%.
